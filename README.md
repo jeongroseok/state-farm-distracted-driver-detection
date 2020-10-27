@@ -1,4 +1,4 @@
-d# state farm distracted driver detection
+# state farm distracted driver detection
 
 ## dataset 셋팅법
 
