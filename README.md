@@ -1,5 +1,13 @@
 # state farm distracted driver detection
 
+## 과제 설명
+
+...
+
+...
+
+...
+
 ## dataset 셋팅법
 
 [다운로드(dropbox)](https://www.dropbox.com/s/6vqtuxdfjhypgik/state-farm-distracted-driver-detection-dataset.zip?dl=0) 후 data폴더에 압축 해제
