@@ -1,8 +1,5 @@
-from urllib.request import install_opener
 import torch
 import torch.nn as nn
-from torch.nn.modules.activation import ReLU
-from torch.utils.model_zoo import load_url as load_state_dict_from_url
 
 
 class VGG11(nn.Module):
