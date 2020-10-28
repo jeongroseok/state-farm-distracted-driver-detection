@@ -17,9 +17,10 @@
 ```
 ├── ...
 ├── data
-├── imgs
-│   ├── test
-│   └── train
-├── driver_imgs_list.csv
-└── sample_submission.csv
+│   ├── imgs
+│   │   ├── test
+│   │   └── train
+│   ├── driver_imgs_list.csv
+│   └── sample_submission.csv
+└── ...
 ```
