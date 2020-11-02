@@ -100,3 +100,7 @@ target/
 
 # etc
 */lightning_logs/*
+
+# input data, saved log, checkpoints
+saved/*
+!saved/.gitkeep
